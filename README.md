@@ -1,2 +1,2 @@
 # NeuralNetsExperiments
-This is my first experiments with neural nets and in particular GAN realisation
+This is my experiments with neural nets and in particular GAN realisation
